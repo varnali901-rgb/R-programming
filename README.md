@@ -16,17 +16,17 @@ R Fundamentals
        -Arithmetic
        -Relational
        -Logical
-   • Input/output
+   • Input and output operations
    • Converting character input into numeric values
-   • Indenting program
-   • Correct use of separators
+   • Indentation and code formatting
+   • Correct use of separators and syntax
 
 Conditional Statements
    • if
    • else if
    • else
    • Input validation
-   • Combining different conditions using logical operators
+   • Combining multiple conditions using logical operators
 
 Loops
    • for
@@ -35,11 +35,25 @@ Loops
 Vectors
    • Creating vectors
    • Finding the length of a vector
-   • Indexing
-   • Modifying elements
+   • Indexing and accessing elements
+   • Modifying vector elements
    • Vectorised operations
+   
+Matrices
+   • Creating matrices
+   • Extracting rows and subsets
+   • Working with boundary and non-boundary elements
+   • Calculating diagonal and non-diagonal sums
+   
+Data Frames
+   • Creating data frames
+   • Accessing and extracting data
+   • Conditional operations on data frames
+   • Calculations on given data
+   
 Functions
-   • Creating a new function
+   • Creating user-defined function
+   • Understanding function arguments and return values
    
 
 💻 Programs
@@ -98,15 +112,20 @@ I am using this repository to practice programming and understanding how the cod
    
 
 🔮 Future Plans
--User-Defined functions
--Matrices and data frames
--Data visualisation
--Statistical analysis
--data analysis projects
--More complex programming problems
+-Explore user-defined functions in greater depth.
+-Practise more complex matrix and data frame operations.
+-Learn data visualisation using R.
+-Explore statistical analysis.
+-Work on data analysis projects.
+-Solve more advanced programming problems.
+-Explore R packages and their applications in Data Science.
 
 👤 About
-This repository will continue to evolve as I keep learning new concepts and build more projects while I explore data science.
+This repository is a record of my ongoing journey in R programming. It will continue to evolve as I explore new concepts, solve more challenging problems, and develop practical projects while building my understanding of Data Science.
 
 AUTHOR
 Varnali Verma
+
+LANGUAGE: R
+
+STATUS: Actively learning and Practicing.
